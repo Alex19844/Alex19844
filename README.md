@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexey
+- 👋 Hi, I’m Oleksii
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on other developers
