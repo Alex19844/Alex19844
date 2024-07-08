@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksii
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning Automated Testing in .NET
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me ...
 
